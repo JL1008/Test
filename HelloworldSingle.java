@@ -6,7 +6,7 @@ class Single{
 		return INSTANCE;
 	};
 	}
-public class Helloworld {
+public class HelloworldSingle {
 	public static void main (String[] args) {
 		
 		System.out.println("hello world!");
